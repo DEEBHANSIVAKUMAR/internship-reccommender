@@ -1,0 +1,41 @@
+id,title,company,location,skills_required,description
+1,Python Developer Intern,Infosys,Bangalore,Python,Work on backend tools and automation scripts.
+2,Frontend Intern,Zoho,Chennai,React,Build UI components and dashboards.
+3,Machine Learning Intern,TCS,Remote,"Machine Learning, Python",Train ML models and evaluate performance.
+4,Web Developer Intern,Freshworks,Bangalore,"HTML, CSS, JavaScript",Develop frontend UI screens.
+5,Data Science Intern,Swiggy,Bengaluru,"Python, Pandas, SQL",Work with data pipelines and insights.
+6,DevOps Intern,HCL,Chennai,"Docker, Kubernetes",Manage CI/CD pipelines.
+7,Mobile App Intern,CleverTap,Bangalore,React Native,Develop cross-platform apps.
+8,Backend Intern,Paytm,Noida,"Node.js, Express",Develop backend APIs.
+9,AI Research Intern,Adobe,Remote,"Deep Learning, PyTorch",Prototype AI models.
+10,Fullstack Intern,StartupX,Chennai,"Python, React",Work on frontend and backend.
+11,Cloud Computing Intern,AWS,Remote,"AWS, Python",Assist in cloud infrastructure management.
+12,Cybersecurity Intern,McAfee,Bangalore,"Network Security, Python",Monitor and analyze security threats.       
+13,Data Analyst Intern,Flipkart,Bangalore,"SQL, Excel",Analyze sales data and generate reports.
+14,Game Development Intern,Ubisoft,Chennai,"C++, Python",Assist in game feature development.
+15,UI/UX Design Intern,InVision,Remote,"Figma, Adobe XD",Create user interface designs and prototypes.  
+16,Blockchain Intern,IBM,Bangalore,"Blockchain, Python",Develop blockchain applications and smart contracts.
+17,Robotics Intern,ABB,Chennai,"ROS, Python",Work on robotic automation
+18,SEO Intern,GoDaddy,Remote,"SEO, Google Analytics",Optimize website content for search engines.
+19,Technical Writing Intern,Red Hat,Remote,"Technical Writing, Python",Create documentation for software products.      
+20,QA Intern,Cognizant,Bangalore,"Selenium, Python",Automate testing processes for web applications.
+21,AR/VR Intern,Magic Leap,Chennai,"Unity, C#",Develop augmented reality applications.
+22,Big Data Intern,Cloudera,Remote,"Hadoop, Python",Process and analyze large datasets.
+23,IT Support Intern,Dell,Bangalore,"Networking, Python",Provide technical support and troubleshooting.
+24,Social Media Intern,Hootsuite,Remote,"Social Media, Content Creation",Manage social media campaigns and content.
+25,Digital Marketing Intern,HubSpot,Chennai,"SEO, SEM",Assist in digital marketing strategies and execution.
+26,Research Intern,Google,Remote,"Python, Data Analysis",Conduct research on data-driven projects.
+27,Embedded Systems Intern,Texas Instruments,Bangalore,"C, Python",Develop firmware for embedded systems.
+28,Product Management Intern,Microsoft,Chennai,"Product Management, Agile",Assist in product development and strategy.
+29,HR Intern,Accenture,Remote,"HR Management, Communication",Support HR operations and recruitment processes.
+30,Finance Intern,Goldman Sachs,Bangalore,"Finance, Excel",Assist in financial analysis and reporting.
+31,Content Writing Intern,Medium,Remote,"Content Writing, SEO",Create engaging articles and blog posts.
+32,Video Editing Intern,YouTube,Chennai,"Video Editing, Adobe Premiere",Edit and produce video content.
+33,Event Management Intern,Eventbrite,Bangalore,"Event Planning, Communication",Assist in organizing and managing events.
+34,Sales Intern,SAP,Remote,"Sales, CRM",Support sales team in lead generation and client management.
+35,Logistics Intern,Amazon,Bangalore,"Logistics, Supply Chain",Optimize supply chain operations and processes.
+36,Customer Service Intern,Zendesk,Remote,"Customer Service, Communication",Handle customer inquiries and support.
+37,HR Analytics Intern,LinkedIn,Bangalore,"HR Analytics, Python",Analyze HR data to improve workforce strategies.
+38,Sustainability Intern,Patagonia,Chennai,"Sustainability, Research",Support sustainability initiatives and research.
+39,Innovation Intern,Siemens,Remote,"Innovation, Project Management",Assist in innovation projects
+40,Legal Intern,LawGeex,Bangalore,"Legal Research, Communication",Support legal team with research and documentation.
